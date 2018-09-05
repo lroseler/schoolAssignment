@@ -1,0 +1,52 @@
+body{
+	background-color: Lavender;
+	font-family: sans-serif;
+}
+a:hover{
+	background-color: Aquamarine;
+}
+h1{
+	text-align: center;
+}
+#gsuLink{
+	text-align: center; 
+	padding: 2em;
+}
+#gitHub{
+	text-align: center; 
+	padding: 2em;
+}
+img{
+	width: 20%;
+height: 20%; 
+border: 2px solid lightblue; 
+border-radius: 10px;
+padding: 1em;
+background-color: #FAEEF7;
+float: right;
+clear: right;
+
+}
+h3.picTag{
+	float: right;
+	clear: right;
+}
+#assign{
+	border-collapse: collapse;
+	
+}
+#assign, td{
+	padding: 1em;
+}
+#assign, th{
+	background-color: darkgrey;
+}
+#assign, tr:nth-child(even){
+	background-color: #f2f2f2;
+	
+}
+#assign, tr:nth-child(odd){
+	background-color: white;
+	
+}
+
